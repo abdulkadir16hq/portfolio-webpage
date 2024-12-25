@@ -15,6 +15,9 @@ This project demonstrates:
 1. [index.html](index.html): The HTML file that defines the structure of the webpage.
 2. [style.css](style.css): The CSS file that adds styling to the webpage.
 
+## Output
+Check out my portfolio webpage live at [GitHub Pages](https://abdulkadir16hq.github.io/portfolio-webpage/).
+
 ## License
 This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
 
